@@ -2,7 +2,7 @@
 
 
 
-<script  src="http://www.youtube.com/player_api?api_key=AIzaSyBqYhm7-q_k2YjJoBms0pAEL_TMTKHkOLo"></script>
+<script  src="http://www.youtube.com/player_api?api_key={{env('GOOGLE_API_KEY')}}"></script>
 <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 <style>
 body {
