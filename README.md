@@ -57,6 +57,7 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 -   [ ] Adding a 404 page
 -   [ ] Bug fix , some trailer ids retreived from TMDB API doesn't exist on YT altho the platform mentioned for those Moves/Tv Shows
         is Youtube. (offset 0 , and can't retreive uri ... ) should redirect to a page that says , Sorry this Movie is not yet available instead.
+-   [ ] Important! : fix rerouting for the featured trailer (the wrong Movie/TvShow id is being passed).
 -   [x] Bonus! : As a user, I should be able to leave comments
 -   [ ] Optimizing the App for smaal screen devices
 
